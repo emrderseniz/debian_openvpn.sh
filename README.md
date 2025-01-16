@@ -1,4 +1,4 @@
-# OpenVPN Debian Installer
+# OpenVPN Debian Yükleyici
 
 Bu script, Debian 11 ve üstü sistemler için optimize edilmiş bir OpenVPN kurulum aracıdır. Aşağıdaki adımları izleyerek OpenVPN sunucunuzu kolayca kurabilirsiniz.
 
