@@ -53,5 +53,4 @@ Bu script, Debian 11 ve üstü sistemler için optimize edilmiş bir OpenVPN kur
 
 Bu script, **OpenVPN** kurulumu için gerekli tüm adımları basitleştirmek ve Debian sistemlerinde sorunsuz bir kurulum sağlamak amacıyla düzenlenmiştir.
 
-Bu belge ve script, OpenVPN kurulumu hakkında bilgi sağlamak için yapay zeka tarafından düzenlenmiştir. Daha fazla bilgi için benimle iletişime geçebilirsiniz!
-
+Bu belge ve script, OpenVPN kurulumu hakkında bilgi sağlamak için yapay zeka tarafından düzenlenmiştir. 
